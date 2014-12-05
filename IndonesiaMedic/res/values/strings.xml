@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Medika Indonesia</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_rumahsakit">Rumah Sakit</string>
+    <string name="action_spesialis">Rumah Sakit Spesialis</string>
+    <string name="action_apotek">Apotek</string>
+    <string name="action_cari">Cari</string>
+    <string name="action_tentang">Tentang</string>
+    <string name="currentlokasi">Lokasi Anda di sini!\nSasana Budaya Ganesha ITB Bandung</string>
+
+</resources>

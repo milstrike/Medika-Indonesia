@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <color name="bluetransparent">#993399FF</color>
+    <color name="white">#FFFFFF</color>
+    <color name="green">#009933</color>
+    <color name="red">#CC0000</color>
+    <color name="bluetaskbar">#3399FF</color>
+    <color name="black">#000000</color>
+    <color name="gray">#C0C0C0</color>
+</resources>

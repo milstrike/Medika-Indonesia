@@ -1,0 +1,35 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.StarStudio.MedikaIndonesia.MainActivity" >
+
+    <item
+        android:id="@+id/action_Mencari"
+        android:orderInCategory="50"
+        android:showAsAction="never"
+        android:title="@string/action_cari"/>
+    
+    <item
+        android:id="@+id/action_hospital"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_rumahsakit"/>
+    
+    <item
+        android:id="@+id/action_specialist"
+        android:orderInCategory="200"
+        android:showAsAction="never"
+        android:title="@string/action_spesialis"/>
+    
+    <item
+        android:id="@+id/action_medicine"
+        android:orderInCategory="300"
+        android:showAsAction="never"
+        android:title="@string/action_apotek"/>
+    
+    <item
+        android:id="@+id/action_about"
+        android:orderInCategory="400"
+        android:showAsAction="never"
+        android:title="@string/action_tentang"/>
+
+</menu>
